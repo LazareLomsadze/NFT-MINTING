@@ -1,0 +1,12 @@
+:root {
+  --primary: #090909;
+  --primary-text: #ffffff;
+  --secondary: #5370f3;
+  --secondary-text: #ffffff;
+  --accent-text:  hsl(0, 0%, 100%);
+  --primary-quote: rgb(235, 181, 6);
+  --secondary-wallet: rgb(116, 223, 250);
+  --secondary-dontknow:rgb(0, 0, 0);
+  --accent-price: rgb(255, 255, 255);
+  --connect: gold;
+}

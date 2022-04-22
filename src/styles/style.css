@@ -1,0 +1,40 @@
+.section{
+    width: 100vw;
+    height: auto;
+    display: block;
+}
+.img{
+    width: 100%;
+}
+.background{
+    background-color: #090909;
+}
+.second-img{
+    margin-top: -10px;
+}
+.third-img{
+    margin-top: -10px;
+}
+.icons{
+    display: flex;
+    width: 100vw;
+    background-color: #090909;
+}
+.twitter{
+    background: url('https://api.iconify.design/logos/twitter.svg?color=%23487ceb&width=40&height=40') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/twitter.svg?color=%23487ceb&width=40&height=40');
+    display: inline;
+    margin-left: 30vw;
+}
+.discord{
+    background: url('https://api.iconify.design/logos/discord-icon.svg?color=%23487ceb&width=40&height=40') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/discord-icon.svg?color=%23487ceb&width=40&height=40');
+    display: inline;
+    margin-left: 15vw;
+}
+.opensea{
+    background: url('https://api.iconify.design/simple-icons/opensea.svg?color=%23487ceb&width=40&height=40') no-repeat center center / contain;
+    content: url('https://api.iconify.design/simple-icons/opensea.svg?color=%23487ceb&width=40&height=40');
+    display: inline;
+    margin-left: 15vw;
+}

@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3e8c1a76b1b056ae1db45fb6c564b285ed28d33f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3e8c1a76b1b056ae1db45fb6c564b285ed28d33f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": " Rebellious_Joes",
+  "SYMBOL": "RJ",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 17000000000000000000,
+  "DISPLAY_COST": 17,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rebellious-joes",
+  "SHOW_BACKGROUND": true
+}
